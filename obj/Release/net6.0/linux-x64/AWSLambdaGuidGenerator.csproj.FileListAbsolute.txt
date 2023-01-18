@@ -1,0 +1,17 @@
+C:\Users\camki\Desktop\Kişisel\Amazon\AWS-Lambda-Guid-Generator-Function\bin\Release\net6.0\linux-x64\AWSLambdaGuidGenerator.deps.json
+C:\Users\camki\Desktop\Kişisel\Amazon\AWS-Lambda-Guid-Generator-Function\bin\Release\net6.0\linux-x64\AWSLambdaGuidGenerator.runtimeconfig.json
+C:\Users\camki\Desktop\Kişisel\Amazon\AWS-Lambda-Guid-Generator-Function\bin\Release\net6.0\linux-x64\AWSLambdaGuidGenerator.dll
+C:\Users\camki\Desktop\Kişisel\Amazon\AWS-Lambda-Guid-Generator-Function\bin\Release\net6.0\linux-x64\AWSLambdaGuidGenerator.pdb
+C:\Users\camki\Desktop\Kişisel\Amazon\AWS-Lambda-Guid-Generator-Function\bin\Release\net6.0\linux-x64\Amazon.Lambda.Core.dll
+C:\Users\camki\Desktop\Kişisel\Amazon\AWS-Lambda-Guid-Generator-Function\bin\Release\net6.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\camki\Desktop\Kişisel\Amazon\AWS-Lambda-Guid-Generator-Function\obj\Release\net6.0\linux-x64\AWSLambdaGuidGenerator.csproj.AssemblyReference.cache
+C:\Users\camki\Desktop\Kişisel\Amazon\AWS-Lambda-Guid-Generator-Function\obj\Release\net6.0\linux-x64\AWSLambdaGuidGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camki\Desktop\Kişisel\Amazon\AWS-Lambda-Guid-Generator-Function\obj\Release\net6.0\linux-x64\AWSLambdaGuidGenerator.AssemblyInfoInputs.cache
+C:\Users\camki\Desktop\Kişisel\Amazon\AWS-Lambda-Guid-Generator-Function\obj\Release\net6.0\linux-x64\AWSLambdaGuidGenerator.AssemblyInfo.cs
+C:\Users\camki\Desktop\Kişisel\Amazon\AWS-Lambda-Guid-Generator-Function\obj\Release\net6.0\linux-x64\AWSLambdaGuidGenerator.csproj.CoreCompileInputs.cache
+C:\Users\camki\Desktop\Kişisel\Amazon\AWS-Lambda-Guid-Generator-Function\obj\Release\net6.0\linux-x64\AWSLambdaGuidGenerator.csproj.CopyComplete
+C:\Users\camki\Desktop\Kişisel\Amazon\AWS-Lambda-Guid-Generator-Function\obj\Release\net6.0\linux-x64\AWSLambdaGuidGenerator.dll
+C:\Users\camki\Desktop\Kişisel\Amazon\AWS-Lambda-Guid-Generator-Function\obj\Release\net6.0\linux-x64\refint\AWSLambdaGuidGenerator.dll
+C:\Users\camki\Desktop\Kişisel\Amazon\AWS-Lambda-Guid-Generator-Function\obj\Release\net6.0\linux-x64\AWSLambdaGuidGenerator.pdb
+C:\Users\camki\Desktop\Kişisel\Amazon\AWS-Lambda-Guid-Generator-Function\obj\Release\net6.0\linux-x64\AWSLambdaGuidGenerator.genruntimeconfig.cache
+C:\Users\camki\Desktop\Kişisel\Amazon\AWS-Lambda-Guid-Generator-Function\obj\Release\net6.0\linux-x64\ref\AWSLambdaGuidGenerator.dll

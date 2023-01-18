@@ -8,14 +8,19 @@ namespace AWSLambdaGuidGenerator;
 public class Function
 {
     
-    /// <summary>
-    /// A simple function that takes a string and does a ToUpper
-    /// </summary>
-    /// <param name="input"></param>
-    /// <param name="context"></param>
-    /// <returns></returns>
-    public string FunctionHandler(string input, ILambdaContext context)
+    public List<string> FunctionHandler(string input, ILambdaContext context)
     {
-        return input.ToUpper();
+        int count = 0;
+
+        if(!int.TryParse(input, out count))
+            return new List<string>();
+
+        List<string> result = new List<string>();
+        for(int i = 1; i <= count; i++)
+        {
+            result.Add(Guid.NewGuid().ToString());
+        }
+
+        return result;
     }
 }

@@ -1,0 +1,6 @@
+C:\Users\camki\Desktop\Kişisel\Amazon\AWS-Lambda-Guid-Generator-Function\bin\Release\net6.0\publish\AWSLambdaGuidGenerator.deps.json
+C:\Users\camki\Desktop\Kişisel\Amazon\AWS-Lambda-Guid-Generator-Function\bin\Release\net6.0\publish\AWSLambdaGuidGenerator.runtimeconfig.json
+C:\Users\camki\Desktop\Kişisel\Amazon\AWS-Lambda-Guid-Generator-Function\bin\Release\net6.0\publish\AWSLambdaGuidGenerator.pdb
+C:\Users\camki\Desktop\Kişisel\Amazon\AWS-Lambda-Guid-Generator-Function\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\camki\Desktop\Kişisel\Amazon\AWS-Lambda-Guid-Generator-Function\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\camki\Desktop\Kişisel\Amazon\AWS-Lambda-Guid-Generator-Function\bin\Release\net6.0\publish\AWSLambdaGuidGenerator.dll
