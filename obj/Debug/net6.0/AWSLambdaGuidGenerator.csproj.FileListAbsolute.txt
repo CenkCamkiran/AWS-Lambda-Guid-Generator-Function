@@ -16,3 +16,21 @@ C:\Users\camki\Desktop\Kişisel\Amazon\AWS-Lambda-Guid-Generator-Function\obj\De
 C:\Users\camki\Desktop\Kişisel\Amazon\AWS-Lambda-Guid-Generator-Function\obj\Debug\net6.0\AWSLambdaGuidGenerator.genruntimeconfig.cache
 C:\Users\camki\Desktop\Kişisel\Amazon\AWS-Lambda-Guid-Generator-Function\obj\Debug\net6.0\ref\AWSLambdaGuidGenerator.dll
 C:\Users\camki\Desktop\Kişisel\Amazon\AWS-Lambda-Guid-Generator-Function\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ccamkiran\Desktop\Cenk Camkıran\Amazon\AWSLambdaGuidGenerator\bin\Debug\net6.0\AWSLambdaGuidGenerator.deps.json
+C:\Users\ccamkiran\Desktop\Cenk Camkıran\Amazon\AWSLambdaGuidGenerator\bin\Debug\net6.0\AWSLambdaGuidGenerator.runtimeconfig.json
+C:\Users\ccamkiran\Desktop\Cenk Camkıran\Amazon\AWSLambdaGuidGenerator\bin\Debug\net6.0\AWSLambdaGuidGenerator.dll
+C:\Users\ccamkiran\Desktop\Cenk Camkıran\Amazon\AWSLambdaGuidGenerator\bin\Debug\net6.0\AWSLambdaGuidGenerator.pdb
+C:\Users\ccamkiran\Desktop\Cenk Camkıran\Amazon\AWSLambdaGuidGenerator\bin\Debug\net6.0\Amazon.Lambda.Core.dll
+C:\Users\ccamkiran\Desktop\Cenk Camkıran\Amazon\AWSLambdaGuidGenerator\bin\Debug\net6.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\ccamkiran\Desktop\Cenk Camkıran\Amazon\AWSLambdaGuidGenerator\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ccamkiran\Desktop\Cenk Camkıran\Amazon\AWSLambdaGuidGenerator\obj\Debug\net6.0\AWSLambdaGuidGenerator.csproj.AssemblyReference.cache
+C:\Users\ccamkiran\Desktop\Cenk Camkıran\Amazon\AWSLambdaGuidGenerator\obj\Debug\net6.0\AWSLambdaGuidGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccamkiran\Desktop\Cenk Camkıran\Amazon\AWSLambdaGuidGenerator\obj\Debug\net6.0\AWSLambdaGuidGenerator.AssemblyInfoInputs.cache
+C:\Users\ccamkiran\Desktop\Cenk Camkıran\Amazon\AWSLambdaGuidGenerator\obj\Debug\net6.0\AWSLambdaGuidGenerator.AssemblyInfo.cs
+C:\Users\ccamkiran\Desktop\Cenk Camkıran\Amazon\AWSLambdaGuidGenerator\obj\Debug\net6.0\AWSLambdaGuidGenerator.csproj.CoreCompileInputs.cache
+C:\Users\ccamkiran\Desktop\Cenk Camkıran\Amazon\AWSLambdaGuidGenerator\obj\Debug\net6.0\AWSLambdaGuidGenerator.csproj.CopyComplete
+C:\Users\ccamkiran\Desktop\Cenk Camkıran\Amazon\AWSLambdaGuidGenerator\obj\Debug\net6.0\AWSLambdaGuidGenerator.dll
+C:\Users\ccamkiran\Desktop\Cenk Camkıran\Amazon\AWSLambdaGuidGenerator\obj\Debug\net6.0\refint\AWSLambdaGuidGenerator.dll
+C:\Users\ccamkiran\Desktop\Cenk Camkıran\Amazon\AWSLambdaGuidGenerator\obj\Debug\net6.0\AWSLambdaGuidGenerator.pdb
+C:\Users\ccamkiran\Desktop\Cenk Camkıran\Amazon\AWSLambdaGuidGenerator\obj\Debug\net6.0\AWSLambdaGuidGenerator.genruntimeconfig.cache
+C:\Users\ccamkiran\Desktop\Cenk Camkıran\Amazon\AWSLambdaGuidGenerator\obj\Debug\net6.0\ref\AWSLambdaGuidGenerator.dll
