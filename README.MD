@@ -1,4 +1,13 @@
-# Simple Guid Generator With AWS Lambda Function
+# AWS Lambda Guid Generator Function Project
+
+This starter project consists of:
+
+- Function.cs - class file containing a class with a single function handler method
+- aws-lambda-tools-defaults.json - default argument settings for use with Visual Studio and command line deployment tools for AWS
+
+You may also have a test project depending on the options selected.
+
+The generated function handler is a simple method accepting a string argument that returns the uppercase equivalent of the input string. Replace the body of this method, and parameters, to suit your needs.
 
 ## Abstract
 
@@ -10,13 +19,12 @@ Build GUID generator via AWS Lambda Function.
 
 ## Contents
 
-- [Simple Guid Generator With AWS Lambda Function](#simple-guid-generator-with-aws-lambda-function)
+- [AWS Lambda Guid Generator Function Project](#aws-lambda-guid-generator-function-project)
   - [Abstract](#abstract)
   - [Philosophy](#philosophy)
   - [Contents](#contents)
   - [Features](#features)
   - [Requirements](#requirements)
-- [AWS Lambda Guid Generator Function Project](#aws-lambda-guid-generator-function-project)
   - [Here are some steps to follow from Visual Studio](#here-are-some-steps-to-follow-from-visual-studio)
   - [Here are some steps to follow to get started from the command line](#here-are-some-steps-to-follow-to-get-started-from-the-command-line)
   - [Contributing](#contributing)
@@ -26,22 +34,10 @@ Build GUID generator via AWS Lambda Function.
 ## Features
 
 - Developed via **.Net Core 6**
-- Can run on any platform (Mac, Linux and Windows wherever you want!)
 
 ## Requirements
 
 > AWS Developer Account
-
-# AWS Lambda Guid Generator Function Project
-
-This starter project consists of:
-
-- Function.cs - class file containing a class with a single function handler method
-- aws-lambda-tools-defaults.json - default argument settings for use with Visual Studio and command line deployment tools for AWS
-
-You may also have a test project depending on the options selected.
-
-The generated function handler is a simple method accepting a string argument that returns the uppercase equivalent of the input string. Replace the body of this method, and parameters, to suit your needs.
 
 ## Here are some steps to follow from Visual Studio
 
