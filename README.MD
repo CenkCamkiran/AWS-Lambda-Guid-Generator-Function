@@ -1,9 +1,5 @@
 # Simple Guid Generator With AWS Lambda Function
 
-<!-- [![Elastic Stack version](https://img.shields.io/badge/Elastic%20Stack-8.3.2-00bfb3?style=flat&logo=elastic-stack)](https://www.elastic.co/blog/category/releases)
-[![Build Status](https://github.com/deviantony/docker-elk/workflows/CI/badge.svg?branch=main)](https://github.com/deviantony/docker-elk/actions?query=workflow%3ACI+branch%3Amain)
-[![Join the chat at https://gitter.im/deviantony/docker-elk](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/deviantony/docker-elk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) -->
-
 ## Abstract
 
 I was curious about AWS Technologies like **Lambda Functions**. So I developed simple **Lambda Function via .NET Core 6**.
@@ -34,18 +30,18 @@ Build GUID generator via AWS Lambda Function.
 
 ## Requirements
 
-> **Note** <br />
-> AWS Developer Account <br />
+> AWS Developer Account
 
 # AWS Lambda Guid Generator Function Project
 
 This starter project consists of:
-* Function.cs - class file containing a class with a single function handler method
-* aws-lambda-tools-defaults.json - default argument settings for use with Visual Studio and command line deployment tools for AWS
+
+- Function.cs - class file containing a class with a single function handler method
+- aws-lambda-tools-defaults.json - default argument settings for use with Visual Studio and command line deployment tools for AWS
 
 You may also have a test project depending on the options selected.
 
-The generated function handler is a simple method accepting a string argument that returns the uppercase equivalent of the input string. Replace the body of this method, and parameters, to suit your needs. 
+The generated function handler is a simple method accepting a string argument that returns the uppercase equivalent of the input string. Replace the body of this method, and parameters, to suit your needs.
 
 ## Here are some steps to follow from Visual Studio
 
@@ -66,22 +62,26 @@ To view execution logs of invocations of your function use the Logs tab in the o
 Once you have edited your template and code you can deploy your application using the [Amazon.Lambda.Tools Global Tool](https://github.com/aws/aws-extensions-for-dotnet-cli#aws-lambda-amazonlambdatools) from the command line.
 
 Install Amazon.Lambda.Tools Global Tools if not already installed.
+
 ```
     dotnet tool install -g Amazon.Lambda.Tools
 ```
 
 If already installed check if new version is available.
+
 ```
     dotnet tool update -g Amazon.Lambda.Tools
 ```
 
 Execute unit tests
+
 ```
     cd "AWSLambdaGuidGenerator/test/AWSLambdaGuidGenerator.Tests"
     dotnet test
 ```
 
 Deploy function to AWS Lambda
+
 ```
     cd "AWSLambdaGuidGenerator/src/AWSLambdaGuidGenerator"
     dotnet lambda deploy-function
