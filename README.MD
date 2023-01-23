@@ -7,6 +7,15 @@ This starter project consists of:
 
 You may also have a test project depending on the options selected.
 
+This starter project consists of:
+[![Build Status](https://github.com/deviantony/docker-elk/workflows/CI/badge.svg?branch=main)](https://github.com/deviantony/docker-elk/actions?query=workflow%3ACI+branch%3Amain)
+[![Join the chat at https://gitter.im/deviantony/docker-elk](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/deviantony/docker-elk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) -->
+
+- Function.cs - class file containing a class with a single function handler method
+- aws-lambda-tools-defaults.json - default argument settings for use with Visual Studio and command line deployment tools for AWS
+
+You may also have a test project depending on the options selected.
+
 The generated function handler is a simple method accepting a string argument that returns the uppercase equivalent of the input string. Replace the body of this method, and parameters, to suit your needs.
 
 ## Abstract
@@ -35,8 +44,6 @@ Build GUID generator via AWS Lambda Function.
 
 - Developed via **.Net Core 6**
 
-## Requirements
-
 <<<<<<< HEAD
 > **Note** <br />
 > AWS Developer Account <br />
@@ -46,13 +53,15 @@ Build GUID generator via AWS Lambda Function.
 This starter project consists of:
 - Function.cs - class file containing a class with a single function handler method
 - aws-lambda-tools-defaults.json - default argument settings for use with Visual Studio and command line deployment tools for AWS
-
+* Function.cs - class file containing a class with a single function handler method
 You may also have a test project depending on the options selected.
 
 The generated function handler is a simple method accepting a string argument that returns the uppercase equivalent of the input string. Replace the body of this method, and parameters, to suit your needs.
 =======
 > AWS Developer Account
 >>>>>>> 95771efcc96354a695295e3ed3e140c667a495c5
+
+The generated function handler is a simple method accepting a string argument that returns the uppercase equivalent of the input string. Replace the body of this method, and parameters, to suit your needs. 
 
 ## Here are some steps to follow from Visual Studio
 
