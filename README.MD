@@ -121,5 +121,4 @@ Please use the Github issues.
 
 ## RoadMap
 
-- Use key-value database for example Amazon DynamoDB for response codes.
-- Use S3 Object storage for ?
+- I am planning to improve myself on AWS Lambda Functions.
