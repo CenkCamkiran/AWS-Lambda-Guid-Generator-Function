@@ -1,22 +1,4 @@
-# AWS Lambda Guid Generator Function Project
-
-This starter project consists of:
-
-- Function.cs - class file containing a class with a single function handler method
-- aws-lambda-tools-defaults.json - default argument settings for use with Visual Studio and command line deployment tools for AWS
-
-You may also have a test project depending on the options selected.
-
-This starter project consists of:
-[![Build Status](https://github.com/deviantony/docker-elk/workflows/CI/badge.svg?branch=main)](https://github.com/deviantony/docker-elk/actions?query=workflow%3ACI+branch%3Amain)
-[![Join the chat at https://gitter.im/deviantony/docker-elk](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/deviantony/docker-elk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) -->
-
-- Function.cs - class file containing a class with a single function handler method
-- aws-lambda-tools-defaults.json - default argument settings for use with Visual Studio and command line deployment tools for AWS
-
-You may also have a test project depending on the options selected.
-
-The generated function handler is a simple method accepting a string argument that returns the uppercase equivalent of the input string. Replace the body of this method, and parameters, to suit your needs.
+# Simple Guid Generator With AWS Lambda Function
 
 ## Abstract
 
@@ -28,12 +10,14 @@ Build GUID generator via AWS Lambda Function.
 
 ## Contents
 
-- [AWS Lambda Guid Generator Function Project](#aws-lambda-guid-generator-function-project)
+- [Simple Guid Generator With AWS Lambda Function](#simple-guid-generator-with-aws-lambda-function)
   - [Abstract](#abstract)
   - [Philosophy](#philosophy)
   - [Contents](#contents)
   - [Features](#features)
   - [Requirements](#requirements)
+- [AWS Lambda Guid Generator Function Project](#aws-lambda-guid-generator-function-project)
+  - [Structure](#structure)
   - [Here are some steps to follow from Visual Studio](#here-are-some-steps-to-follow-from-visual-studio)
   - [Here are some steps to follow to get started from the command line](#here-are-some-steps-to-follow-to-get-started-from-the-command-line)
   - [Contributing](#contributing)
@@ -43,25 +27,45 @@ Build GUID generator via AWS Lambda Function.
 ## Features
 
 - Developed via **.Net Core 6**
+- Can run on any platform (Mac, Linux and Windows wherever you want!)
 
-<<<<<<< HEAD
+## Requirements
+
 > **Note** <br />
 > AWS Developer Account <br />
 
 # AWS Lambda Guid Generator Function Project
 
 This starter project consists of:
+
 - Function.cs - class file containing a class with a single function handler method
 - aws-lambda-tools-defaults.json - default argument settings for use with Visual Studio and command line deployment tools for AWS
-* Function.cs - class file containing a class with a single function handler method
+
 You may also have a test project depending on the options selected.
 
 The generated function handler is a simple method accepting a string argument that returns the uppercase equivalent of the input string. Replace the body of this method, and parameters, to suit your needs.
-=======
-> AWS Developer Account
->>>>>>> 95771efcc96354a695295e3ed3e140c667a495c5
 
-The generated function handler is a simple method accepting a string argument that returns the uppercase equivalent of the input string. Replace the body of this method, and parameters, to suit your needs. 
+## Structure
+
+```bash
++---AWSLambdaGuidGenerator
+|   |   .gitignore //gitignore file
+|   |   aws-lambda-tools-defaults.json //AWS lambda default configs
+|   |   AWSLambdaGuidGenerator.csproj //Dotnet project file
+|   |   AWSLambdaGuidGenerator.sln //Dotnet solution file
+|   |   Function.cs //Main Function File
+|   |   README.MD
+|   |   
+    |                  
+|   \---Properties
+|           launchSettings.json
+|           
+\---Models
+    |   BaseModel.cs
+    |   Models.csproj
+    |   RequestModel.cs
+    |   ResponseModel.cs  
+```
 
 ## Here are some steps to follow from Visual Studio
 

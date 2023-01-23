@@ -1,0 +1,18 @@
++---AWSLambdaGuidGenerator
+|   |   .gitignore //gitignore file
+|   |   aws-lambda-tools-defaults.json //AWS lambda default configs
+|   |   AWSLambdaGuidGenerator.csproj //Dotnet project file
+|   |   AWSLambdaGuidGenerator.sln //Dotnet solution file
+|   |   Function.cs //Main Function File
+|   |   README.MD
+|   |   
+    |                  
+|   \---Properties
+|           launchSettings.json
+|           
+\---Models
+    |   BaseModel.cs
+    |   Models.csproj
+    |   RequestModel.cs
+    |   ResponseModel.cs
+    
